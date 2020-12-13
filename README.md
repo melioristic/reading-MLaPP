@@ -4,8 +4,8 @@ This place brings together some information about people who are reading Machine
 ### Schedule Sprint 1
 
 Number | Chapter | Week | Discord Link | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-1 | Introduction | 2nd - 8th Jan| [Discord](https://discord.gg/MBdVrcGRtg) |8th Jan | To be Updated |
+:-----|:-----|:-----|:-----|:-----|:-----|
+1 | Introduction | 2nd - 8th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 8th Jan | To be Updated |
 2 | Probability | 9th - 15th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 15th Jan | To be Updated |
 3 | Generative Models for Discrete Data | 16th - 22nd Jan| [Discord](https://discord.gg/MBdVrcGRtg) |  22nd Jan | To be Updated |
 4 | Gaussian Models| 23rd - 29th Jan| [Discord](https://discord.gg/MBdVrcGRtg) |  29th Jan| To be Updated |
