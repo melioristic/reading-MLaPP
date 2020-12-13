@@ -3,7 +3,7 @@ This place brings together some information about people who are reading Machine
 
 ### Schedule Sprint 1
 
-Number | Chapter | Week | Discord Link | Date | Time |
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
 :-----|:-----|:-----|:-----|:-----|:-----|
 1 | Introduction | 2nd - 8th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 8th Jan | To be Updated |
 2 | Probability | 9th - 15th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 15th Jan | To be Updated |
@@ -21,8 +21,8 @@ Number | Chapter | Week | Discord Link | Date | Time |
 
 ### Schedule Sprint 2
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 5 | Bayesian Statistics | | | | |
 6 | Freequentist Statistics | | | | |
 7 | Linear Regression | | | | |
@@ -30,8 +30,8 @@ Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
 
 ### Schedule Sprint 3
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 9 | Generalized Linear Model and Exponential Family | | | | |
 10 | Directed Graphical Models (Bayes Nets) | | | | |
 11 | Mixture Model and EM Algorithm | | | | |
@@ -39,8 +39,8 @@ Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
 
 ### Schedule Sprint 4
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 13 | Sparse Linear Models | | | | |
 14 | Kernels | | | | |
 15 | Gaussian Processes | | | | |
@@ -48,8 +48,8 @@ Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
 
 ### Schedule Sprint 5
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 17 | Markov and hidden Markov models | | | | |
 18 | State-space Models | | | | |
 19 | Undirected graphical models | | | | |
@@ -57,8 +57,8 @@ Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
 
 ### Schedule Sprint 6
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 21 | Variational inference | | | | |
 22 | More variational inference | | | | |
 23 | Monte Carlo inference | | | | |
@@ -66,8 +66,8 @@ Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
 
 ### Schedule Sprint 7
 
-Number | Chapter | Week | Discord Link | Discussion Issues | Date | Time |
-:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
 25 | Clustering | | | | |
 26 | Graphical model structure learning| | | | |
 27 | Latent variable models for discrete data | | | | |
