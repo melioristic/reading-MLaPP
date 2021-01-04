@@ -4,20 +4,13 @@ The repository was originally conceived with an idea to read MLaPP 1st Edition f
 
 A new timeline needes to be decided based on this new version and will be updated soon.
 
-### Sprint 1
+### PML_1 
 
-Foundations
-
-### Sprint 2
-Linear Models
-
-### Sprint 3
-
-Deep Neural Networks
-
-### Sprint 4
-
-Nonparametric Models
-
-### Appendix
-Mathematical
+Number | Chapter | Reading days | Discord Link | Discussion day | Time |
+:-----|:-----|:-----|:-----|:-----|:-----|
+1 | Foundations | 2nd - 8th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 8th Jan | To be Updated |
+2 | Foundations | 9th - 15th Jan| [Discord](https://discord.gg/MBdVrcGRtg) | 15th Jan | To be Updated |
+3 | Linear Models | 16th - 22nd Jan| [Discord](https://discord.gg/MBdVrcGRtg) |  22nd Jan | To be Updated |
+4 | Deep neural networks| 23rd - 29th Jan| [Discord](https://discord.gg/MBdVrcGRtg) |  29th Jan| To be Updated |
+5 | Nonparametric Models | 29th Jan - 4th Feb| [Discord](https://discord.gg/MBdVrcGRtg) |  4th Feb| To be Updated |
+6 | Beyond Supervised Learning | 5th Feb - 11th Feb| [Discord](https://discord.gg/MBdVrcGRtg) |  11th Feb| To be Updated |
